@@ -1,4 +1,4 @@
-#Formatando texto com REACT
+# Formatando texto com REACT
 
 - Este projeto é apenas uma atividade básica do pimeiro módulo de REACT do curso.
 
